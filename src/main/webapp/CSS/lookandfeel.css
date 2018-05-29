@@ -1,0 +1,80 @@
+body {
+	background: #edcca64d;
+	font-family: liberation sans, dejavu sans, sans;
+}
+
+h1 {
+	color: white;
+	font-size: 2.5em;
+	text-shadow: .1em .1em .1em black;
+}
+
+h2 {
+	font-size: 1.45em;
+}
+
+a {
+	margin-left: .25em;
+	margin-right: 1em;
+	font-size: 1.1em;
+}
+
+#Titlebar {
+	margin: -.7em -.7em 1em -.7em;
+	padding: .5em 1em 1em 1.2em;
+	background-color: #9c9cf9;
+	border-bottom: #514d4d groove;
+}
+#Linkbar {
+	padding: .3em;
+	background: linear-gradient(to left,#9c9cf94d,#fff);
+}
+
+form, table {
+	background: #9c9cf9;
+	padding: .6em;
+	border-bottom: #514d4d groove;
+	border-right: #514d4d groove;
+	border-radius: 6px;
+	width: -moz-fit-content;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+table {
+	width: 100%;
+}
+
+tbody, th {
+	background: #2b2b48;
+	text-align: left;
+}
+
+.minibutton {
+	border: none;
+	background: white;
+	border-radius: 0px !important;
+	color: black;
+}
+
+td {
+	background-color: white;
+	color: black;
+}
+
+.view {
+	background-color: #6969ab;
+	border: #514d4d groove;
+	padding: .2em 2em;
+	color: white;
+}
+
+legend {
+	margin-bottom: .2em;
+	margin-top: .2em;
+}
+
+#submit {
+	margin-top: .8em;
+}

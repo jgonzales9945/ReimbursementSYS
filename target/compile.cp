@@ -1,0 +1,1 @@
+/home/tritonium/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:/home/tritonium/.m2/repository/org/json/json/20180130/json-20180130.jar
